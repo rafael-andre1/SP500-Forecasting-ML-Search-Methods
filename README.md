@@ -1,6 +1,6 @@
 # SP500 Forecasting using Machine Learning and Search Methods
 
-This project, developed for **Laboratory of Artificail Inteligence**, focuses on understanding stock market concepts and application of 
+This project, developed for **Laboratory of Artificail Inteligence**, focuses on understanding stock market concepts.
 
 
 The work was carried out by:
